@@ -5,8 +5,8 @@ using namespace std;
 int main()
 {
   //declaring variables
-  int a, b;
-  int sum = a+b;
+  float a, b;
+  float sum = a+b;
   cout<<"sum = "<<sum;
   return 0;
 }
